@@ -1,0 +1,1 @@
+const myArray = [["firstArray", 11], ["secondArray", 22]];
